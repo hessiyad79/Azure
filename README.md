@@ -1,1 +1,1 @@
-Useful files to start with Azure SQL server
+Useful scripts to start with Azure SQL server
